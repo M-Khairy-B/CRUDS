@@ -1,1 +1,1 @@
-# CRUDS-
+# CRUDS-Store Managment System
